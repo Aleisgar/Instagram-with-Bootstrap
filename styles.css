@@ -1,0 +1,64 @@
+
+ body{
+     padding:1em;
+   }  
+ *{
+     cursor:url("https://img.icons8.com/material-outlined/24/000000/circled-chevron-up.png"), auto; 
+}
+
+.nav-pills{
+    justify-content: center;
+    padding-top: 1em;
+    cursor:url("https://img.icons8.com/material-outlined/24/000000/circled-chevron-up.png"), auto; 
+}
+#instagram{
+    font-family: 'Ms Madi', cursive;
+    font-family: 'Square Peg', cursive;
+    font-size:xx-large;
+}
+.btn.btn-primary{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(15, 169, 15);
+    border-color:rgb(15, 169, 15);
+    cursor:url("https://img.icons8.com/material-outlined/24/000000/circled-chevron-up.png"), auto; 
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+.nav-pills .nav-link.active{
+    background-color: grey;
+}
+.nav-link{
+    color:grey;
+}
+.card{
+    margin: auto;
+    width: 35em;
+    margin-bottom: 20px;
+}
+
+.container-fondo{
+    background-color: rgb(210, 201, 201);
+    padding:1em;
+}
+.card-header{
+    display:flex;
+    justify-content: space-between;
+
+}
+
+#fecha{
+    color:gray;
+}
+.card-footer{
+    display:flex;
+    background-color: white;
+    color:gray;
+    padding: 0;
+   
+}
+.form-control.comentario{
+    border:none;
+}
