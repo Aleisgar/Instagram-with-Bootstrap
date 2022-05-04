@@ -2,14 +2,11 @@
  body{
      padding:1em;
    }  
- *{
-     cursor:url("https://img.icons8.com/material-outlined/24/000000/circled-chevron-up.png"), auto; 
-}
 
 .nav-pills{
     justify-content: center;
     padding-top: 1em;
-    cursor:url("https://img.icons8.com/material-outlined/24/000000/circled-chevron-up.png"), auto; 
+    
 }
 #instagram{
     font-family: 'Ms Madi', cursive;
