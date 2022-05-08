@@ -30,20 +30,10 @@ img {
 .nav-link{
     color:grey;
 }
-.card{
-    margin: auto;
-    width: 35em;
-    margin-bottom: 20px;
-}
 
-.container-fondo{
+.fondo{
     background-color: rgb(210, 201, 201);
     padding:1em;
-}
-.card-header{
-    display:flex;
-    justify-content: space-between;
-
 }
 
 #fecha{
