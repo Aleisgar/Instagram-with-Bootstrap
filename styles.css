@@ -1,51 +1,57 @@
+body {
+    padding: 1em;
+}
 
- body{
-     padding:1em;
-   }  
-
-.nav-pills{
+.nav-pills {
     justify-content: center;
     padding-top: 1em;
-    
 }
-#instagram{
+.nav-link:focus, .nav-link:hover {
+    color:grey;
+}
+#instagram {
     font-family: 'Ms Madi', cursive;
     font-family: 'Square Peg', cursive;
-    font-size:xx-large;
+    font-size: xx-large;
 }
-.btn.btn-primary{
+
+.btn.btn-primary {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(15, 169, 15);
-    border-color:rgb(15, 169, 15);
-   
+    border-color: rgb(15, 169, 15);
+
 }
 
 img {
     width: 300px;
     height: 300px;
 }
-.nav-pills .nav-link.active{
+
+.nav-pills .nav-link.active {
     background-color: grey;
 }
-.nav-link{
-    color:grey;
+
+.nav-link {
+    color: grey;
 }
 
-.fondo{
+.fondo {
     background-color: rgb(210, 201, 201);
-    padding:1em;
+    padding: 1em;
 }
 
-#fecha{
-    color:gray;
+#fecha {
+    color: gray;
 }
-.card-footer{
-    display:flex;
+
+.card-footer {
+    display: flex;
     background-color: white;
-    color:gray;
+    color: gray;
     padding: 0;
-   
+
 }
-.form-control.comentario{
-    border:none;
+
+.form-control.comentario {
+    border: none;
 }
